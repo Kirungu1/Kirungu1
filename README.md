@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kirungu1
-- 👀 I’m interested in SSDLC
+- 👀 I’m interested in SSDLC, Cloud Security, InfoSec 
 - 🌱 I’m currently learning software Testing
 - 💞️ I’m looking to collaborate on Security and software SSDLC
 - 📫 How to reach me kirungu.pk@gmail.com
